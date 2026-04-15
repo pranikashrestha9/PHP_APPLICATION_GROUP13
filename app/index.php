@@ -2,7 +2,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Example Site;!</title>
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body class="bodyStyle">
@@ -52,7 +52,7 @@
 		</div>
 			<table>
 				<tr>
-					<td><figure><img src="Zaireeda.jpeg" height=auto width="400"><figcaption>Zaireeda</figcaption></figure></td>
+					<td><figure><img src="Zaireeda.jfif" height=auto width="400"><figcaption>Zaireeda</figcaption></figure></td>
 				</tr>	
 					<tr><td><p>Our site got started when Zaireeda found that she was frequently looking up data from a variety of databases. <br>Zaireeda decided to start sharing some of this data with other social researchers. </p></td>
 				</tr>
